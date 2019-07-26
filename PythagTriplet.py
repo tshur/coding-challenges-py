@@ -5,8 +5,6 @@
 # problem can be solved in O(N/3) = O(N) time without needing
 # to loop through each of a, b, and c.
 
-# function definition
-
 
 def pythag_triplet(N):
     """Returns the maximum product of a Pythogorean
